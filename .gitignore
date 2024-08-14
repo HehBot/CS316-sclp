@@ -1,0 +1,9 @@
+*sclp
+!A*-sclp
+build/
+**.toks
+**.ast
+**.tac
+**.rtl
+**.spim
+**.json

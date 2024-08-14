@@ -1,0 +1,15 @@
+# CS316 Group 23
+## Extra features:
+ - Escape sequences in quoted string literals
+
+ - Break and Continue statements in loops
+
+ - Empty bodies for For and While statements
+
+ - Empty return statements in void functions
+
+ - Return path checking
+
+ - Pointers and arrays in C-style
+
+ - Function pointers
